@@ -21,11 +21,3 @@ Step 1: Enter desired city into the input box.
 Step 2: Click the search button or press enter.
 
 Step 3: Wait for your weather data to show on the screen.
-
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
